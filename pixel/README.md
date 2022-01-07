@@ -1,6 +1,10 @@
 # pixel
 
-A new Flutter project.
+Smart Home App you can change music 
+
+## Screenshots 
+
+<img src="assets/screenshots/screenshot.jpeg" width="270" height="480" title="Smart app" alt="Smart app"/></td>
 
 ## Getting Started
 
